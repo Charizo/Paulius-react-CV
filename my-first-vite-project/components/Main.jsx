@@ -169,7 +169,7 @@ export default function Main() {
       <header className="main-header">
         <h1 className="name">
           <span className="eros-name">Paulius</span>
-          <strong> Volskis</strong>
+          <strong> Volskisssss</strong>
         </h1>
         <h4 className="header-desc">
           <span className="eros-name">
