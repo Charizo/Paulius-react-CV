@@ -141,7 +141,7 @@ function AdditionalInfo() {
       <div className="row">
         <ul className="experience_bullets">
           <li>
-            Peer Assisted Study Support (PASS) mentor - Was accountable for
+            Eros Assisted Study Support (PASS) mentor - Was accountable for
             quality and delivery of mentoring to fellow first year students.
           </li>
           <li>
