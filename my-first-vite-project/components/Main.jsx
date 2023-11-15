@@ -168,7 +168,7 @@ export default function Main() {
     <div className="main-page-container">
       <header className="main-header">
         <h1 className="name">
-          <span className="eros-name">Paulius</span>
+          <span className="name-banner">Paulius</span>
           <strong> Volskis</strong>
         </h1>
         <h4 className="header-desc">

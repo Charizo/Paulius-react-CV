@@ -48,7 +48,7 @@
 }
 
 .main-header {
-  background-color: cornflowerblue;
+  background-color: rgb(146, 255, 248);
   border-radius: 10px;
   text-align: start;
   padding-top: 32px;
@@ -82,7 +82,7 @@
   margin-left: 15px;
 }
 
-.eros-name {
+.name-banner {
   font-weight: normal;
 }
 
