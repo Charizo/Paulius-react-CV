@@ -5,28 +5,19 @@ function ContactInfo() {
   return (
     <ul className="info-list">
       <li id="email">
-        <a href="mailto: eros.achillea@outlook.com">
-          eros.achillea@outlook.com
+        <a href="mailto: pauliusvolskis@gmail.com">
+          pauliusvolskis@gmail.com
         </a>
       </li>
       <li id="phone">
-        <a>0749 806 4329</a>
+        <a>+44 7477 302810</a>
       </li>
       <li id="linkedin">
         <a
-          href="https://www.linkedin.com/in/eros-achillea-078b18141/"
+          href="https://www.linkedin.com/in/paulius-volskis-08b65a17b/"
           rel="noreferrer"
         >
-          linkedin.com/in/eros-achillea-078b18141/
-        </a>
-      </li>
-      <li id="website">
-        <a
-          href="https://erosachillea.eu.pythonanywhere.com"
-          target="_blank"
-          rel="noreferrer"
-        >
-          erosachillea.eu.pythonanywhere.com
+          https://www.linkedin.com/in/paulius-volskis-08b65a17b/
         </a>
       </li>
       <li id="github">
@@ -44,9 +35,9 @@ function RelevantModules() {
       <h1 className="section-heading">Relevant Modules</h1>
       <hr />
       <ul className="modules-list">
-        <li>Statistical Data Analysis (94.9%)</li>
-        <li>Introduction to Machine learning (91%)</li>
-        <li>Introduction to Scientific Computing (86.9%)</li>
+        <li>Statistical Physics (83.2%)</li>
+        <li>Final Thesis (78.6%)</li>
+        <li>Introduction to Scientific Computing (85.7%)</li>
       </ul>
       <br />
     </section>
